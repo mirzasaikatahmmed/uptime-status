@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 313,
-    "timeWeek": 313,
-    "timeMonth": 313,
-    "timeYear": 313,
+    "time": 614,
+    "timeDay": 614,
+    "timeWeek": 614,
+    "timeMonth": 614,
+    "timeYear": 614,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ahskbera.edu.bd.ico",
     "slug": "adarsha-high-school-kaitola",
     "status": "up",
-    "uptime": "42.85%",
-    "uptimeDay": "42.85%",
-    "uptimeWeek": "42.85%",
-    "uptimeMonth": "42.85%",
-    "uptimeYear": "42.85%",
-    "time": 11086,
-    "timeDay": 11086,
-    "timeWeek": 11086,
-    "timeMonth": 11086,
-    "timeYear": 11086,
-    "dailyMinutesDown": {
-      "2025-01-31": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 8959,
+    "timeDay": 8959,
+    "timeWeek": 8959,
+    "timeMonth": 8959,
+    "timeYear": 8959,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portal - Adarsha High School, Kaitola",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1810,
-    "timeDay": 1810,
-    "timeWeek": 1810,
-    "timeMonth": 1810,
-    "timeYear": 1810,
+    "time": 2232,
+    "timeDay": 2232,
+    "timeWeek": 2232,
+    "timeMonth": 2232,
+    "timeYear": 2232,
     "dailyMinutesDown": {}
   }
 ]
