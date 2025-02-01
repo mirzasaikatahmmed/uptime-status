@@ -22,19 +22,19 @@
     "url": "https://ahskbera.edu.bd",
     "icon": "https://icons.duckduckgo.com/ip3/ahskbera.edu.bd.ico",
     "slug": "adarsha-high-school-kaitola",
-    "status": "up",
-    "uptime": "95.08%",
-    "uptimeDay": "95.08%",
-    "uptimeWeek": "95.08%",
-    "uptimeMonth": "95.08%",
-    "uptimeYear": "95.08%",
+    "status": "down",
+    "uptime": "96.31%",
+    "uptimeDay": "96.31%",
+    "uptimeWeek": "96.31%",
+    "uptimeMonth": "96.31%",
+    "uptimeYear": "96.31%",
     "time": 17711,
     "timeDay": 17711,
     "timeWeek": 17711,
     "timeMonth": 17711,
     "timeYear": 17711,
     "dailyMinutesDown": {
-      "2025-02-01": 37
+      "2025-02-01": 31
     }
   },
   {
