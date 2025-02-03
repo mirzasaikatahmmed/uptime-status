@@ -22,19 +22,19 @@
     "url": "https://ahskbera.edu.bd",
     "icon": "https://icons.duckduckgo.com/ip3/ahskbera.edu.bd.ico",
     "slug": "adarsha-high-school-kaitola",
-    "status": "down",
-    "uptime": "97.86%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "97.86%",
-    "uptimeMonth": "97.86%",
-    "uptimeYear": "97.86%",
-    "time": 16119,
-    "timeDay": 12515,
-    "timeWeek": 16119,
-    "timeMonth": 16119,
-    "timeYear": 16119,
+    "status": "up",
+    "uptime": "97.72%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "97.72%",
+    "uptimeMonth": "97.72%",
+    "uptimeYear": "97.72%",
+    "time": 16508,
+    "timeDay": 14364,
+    "timeWeek": 16508,
+    "timeMonth": 16508,
+    "timeYear": 16508,
     "dailyMinutesDown": {
-      "2025-02-03": 0,
+      "2025-02-03": 6,
       "2025-02-02": 22,
       "2025-02-01": 63
     }
@@ -44,7 +44,7 @@
     "url": "https://portal.ahskbera.edu.bd",
     "icon": "https://icons.duckduckgo.com/ip3/portal.ahskbera.edu.bd.ico",
     "slug": "portal-adarsha-high-school-kaitola",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -55,6 +55,8 @@
     "timeWeek": 1991,
     "timeMonth": 1991,
     "timeYear": 1991,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-03": 0
+    }
   }
 ]
