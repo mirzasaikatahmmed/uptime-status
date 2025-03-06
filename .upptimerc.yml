@@ -6,10 +6,16 @@ sites:
   - name: Portfolio
     url: https://saikat.com.bd
 
-  - name: Adarsha High School, Kaitola
+  - name: AIUB Student Support
+    url: https://aiub.saikat.com.bd
+
+  - name: Secure File Sharing
+    url: https://aiubfs.saikat.com.bd
+
+  - name: AHSK
     url: https://ahskbera.edu.bd
 
-  - name: Portal - Adarsha High School, Kaitola
+  - name: Portal - AHSK
     url: https://portal.ahskbera.edu.bd
 
 status-website:
