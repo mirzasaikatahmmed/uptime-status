@@ -76,17 +76,19 @@
     "url": "https://portal.ahskbera.edu.bd",
     "icon": "https://icons.duckduckgo.com/ip3/portal.ahskbera.edu.bd.ico",
     "slug": "portal-ahsk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1739,
-    "timeDay": 1695,
-    "timeWeek": 1739,
-    "timeMonth": 1739,
-    "timeYear": 1739,
-    "dailyMinutesDown": {}
+    "time": 1653,
+    "timeDay": 1459,
+    "timeWeek": 1653,
+    "timeMonth": 1653,
+    "timeYear": 1653,
+    "dailyMinutesDown": {
+      "2025-03-10": 0
+    }
   }
 ]
