@@ -58,18 +58,20 @@
     "url": "https://ahskbera.edu.bd",
     "icon": "https://icons.duckduckgo.com/ip3/ahskbera.edu.bd.ico",
     "slug": "ahsk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2171,
-    "timeDay": 1935,
-    "timeWeek": 2126,
-    "timeMonth": 2171,
-    "timeYear": 2171,
-    "dailyMinutesDown": {}
+    "time": 2201,
+    "timeDay": 2492,
+    "timeWeek": 2241,
+    "timeMonth": 2201,
+    "timeYear": 2201,
+    "dailyMinutesDown": {
+      "2025-04-02": 0
+    }
   },
   {
     "name": "Portal - AHSK",
