@@ -4,18 +4,20 @@
     "url": "https://saikat.com.bd",
     "icon": "https://icons.duckduckgo.com/ip3/saikat.com.bd.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 278,
-    "timeDay": 187,
-    "timeWeek": 274,
-    "timeMonth": 290,
-    "timeYear": 278,
-    "dailyMinutesDown": {}
+    "time": 298,
+    "timeDay": 1195,
+    "timeWeek": 515,
+    "timeMonth": 351,
+    "timeYear": 298,
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "AIUB Student Support",
