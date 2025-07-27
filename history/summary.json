@@ -22,9 +22,9 @@
     "url": "https://aiub.saikat.com.bd",
     "icon": "https://icons.duckduckgo.com/ip3/aiub.saikat.com.bd.ico",
     "slug": "aiub-student-support",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +33,18 @@
     "timeWeek": 192,
     "timeMonth": 155,
     "timeYear": 202,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-27": 0
+    }
   },
   {
     "name": "Secure File Sharing",
     "url": "https://aiubfs.saikat.com.bd",
     "icon": "https://icons.duckduckgo.com/ip3/aiubfs.saikat.com.bd.ico",
     "slug": "secure-file-sharing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 106,
     "timeMonth": 141,
     "timeYear": 180,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-27": 0
+    }
   },
   {
     "name": "AHSK",
