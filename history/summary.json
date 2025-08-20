@@ -22,9 +22,9 @@
     "url": "https://aiub.saikat.com.bd",
     "icon": "https://icons.duckduckgo.com/ip3/aiub.saikat.com.bd.ico",
     "slug": "aiub-student-support",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +33,18 @@
     "timeWeek": 161,
     "timeMonth": 166,
     "timeYear": 196,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-20": 0
+    }
   },
   {
     "name": "Secure File Sharing",
     "url": "https://aiubfs.saikat.com.bd",
     "icon": "https://icons.duckduckgo.com/ip3/aiubfs.saikat.com.bd.ico",
     "slug": "secure-file-sharing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 130,
     "timeMonth": 171,
     "timeYear": 181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-20": 0
+    }
   },
   {
     "name": "AHSK",
@@ -60,9 +64,9 @@
     "slug": "ahsk",
     "status": "up",
     "uptime": "97.32%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "85.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "85.96%",
     "uptimeYear": "97.32%",
     "time": 5158,
     "timeDay": 4202,
@@ -70,7 +74,6 @@
     "timeMonth": 5865,
     "timeYear": 5158,
     "dailyMinutesDown": {
-      "2025-08-20": 7,
       "2025-08-08": 28,
       "2025-08-05": 1404,
       "2025-08-04": 1440,
@@ -98,9 +101,9 @@
     "slug": "portal-ahsk",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.86%",
     "time": 1728,
     "timeDay": 1562,
@@ -108,7 +111,6 @@
     "timeMonth": 1636,
     "timeYear": 1728,
     "dailyMinutesDown": {
-      "2025-08-20": 7,
       "2025-08-08": 28,
       "2025-08-01": 37,
       "2025-07-31": 24,
