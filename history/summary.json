@@ -22,9 +22,9 @@
     "url": "https://aiub.saikat.com.bd",
     "icon": "https://icons.duckduckgo.com/ip3/aiub.saikat.com.bd.ico",
     "slug": "aiub-student-support",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.12%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.96%",
@@ -34,6 +34,7 @@
     "timeMonth": 155,
     "timeYear": 193,
     "dailyMinutesDown": {
+      "2025-08-22": 0,
       "2025-08-21": 53,
       "2025-08-20": 35
     }
@@ -43,9 +44,9 @@
     "url": "https://aiubfs.saikat.com.bd",
     "icon": "https://icons.duckduckgo.com/ip3/aiubfs.saikat.com.bd.ico",
     "slug": "secure-file-sharing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.12%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.96%",
@@ -55,6 +56,7 @@
     "timeMonth": 175,
     "timeYear": 181,
     "dailyMinutesDown": {
+      "2025-08-22": 0,
       "2025-08-21": 53,
       "2025-08-20": 35
     }
@@ -65,11 +67,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ahskbera.edu.bd.ico",
     "slug": "ahsk",
     "status": "up",
-    "uptime": "97.35%",
+    "uptime": "97.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "85.96%",
-    "uptimeYear": "97.35%",
+    "uptimeYear": "97.36%",
     "time": 5174,
     "timeDay": 8619,
     "timeWeek": 5490,
