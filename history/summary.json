@@ -22,10 +22,10 @@
     "url": "https://aiub.saikat.com.bd",
     "icon": "https://icons.duckduckgo.com/ip3/aiub.saikat.com.bd.ico",
     "slug": "aiub-student-support",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.92%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.91%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.96%",
     "time": 194,
@@ -34,6 +34,7 @@
     "timeMonth": 154,
     "timeYear": 194,
     "dailyMinutesDown": {
+      "2025-08-25": 1,
       "2025-08-22": 20,
       "2025-08-21": 53,
       "2025-08-20": 35
@@ -44,9 +45,9 @@
     "url": "https://aiubfs.saikat.com.bd",
     "icon": "https://icons.duckduckgo.com/ip3/aiubfs.saikat.com.bd.ico",
     "slug": "secure-file-sharing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.92%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.96%",
@@ -56,6 +57,7 @@
     "timeMonth": 172,
     "timeYear": 179,
     "dailyMinutesDown": {
+      "2025-08-25": 0,
       "2025-08-22": 20,
       "2025-08-21": 53,
       "2025-08-20": 35
