@@ -24,9 +24,9 @@
     "slug": "aiub-student-support",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.95%",
     "time": 193,
     "timeDay": 156,
@@ -34,7 +34,7 @@
     "timeMonth": 155,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2025-08-25": 25,
+      "2025-08-25": 18,
       "2025-08-22": 20,
       "2025-08-21": 53,
       "2025-08-20": 35
@@ -47,9 +47,9 @@
     "slug": "secure-file-sharing",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.95%",
     "time": 182,
     "timeDay": 319,
@@ -57,7 +57,7 @@
     "timeMonth": 185,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-08-25": 24,
+      "2025-08-25": 18,
       "2025-08-22": 20,
       "2025-08-21": 53,
       "2025-08-20": 35
